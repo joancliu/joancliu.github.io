@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://joancliu.github.io/"/>
-  <updated>2018-12-16T10:18:09.199Z</updated>
+  <updated>2018-12-16T10:16:35.035Z</updated>
   <id>https://joancliu.github.io/</id>
   
   <author>
@@ -15,60 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>about</title>
-    <link href="https://joancliu.github.io/2018/12/16/about/"/>
-    <id>https://joancliu.github.io/2018/12/16/about/</id>
-    <published>2018-12-16T10:17:09.000Z</published>
-    <updated>2018-12-16T10:18:09.199Z</updated>
-    
-    <content type="html"><![CDATA[<p>Law student, Peking University</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Law student, Peking University&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>categories</title>
-    <link href="https://joancliu.github.io/2018/12/16/categories/"/>
-    <id>https://joancliu.github.io/2018/12/16/categories/</id>
-    <published>2018-12-16T10:14:14.000Z</published>
-    <updated>2018-12-16T10:15:20.721Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-      <category term="categories" scheme="https://joancliu.github.io/tags/categories/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>tags</title>
-    <link href="https://joancliu.github.io/2018/12/16/tags/"/>
-    <id>https://joancliu.github.io/2018/12/16/tags/</id>
-    <published>2018-12-16T10:05:01.000Z</published>
-    <updated>2018-12-16T10:15:06.042Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-      <category term="tags" scheme="https://joancliu.github.io/tags/tags/"/>
-    
-  </entry>
   
   <entry>
     <title>何海波《法学论文方法》笔记</title>
