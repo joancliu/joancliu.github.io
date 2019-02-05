@@ -89,7 +89,7 @@
 <meta name="keywords" content="Legal Study,Toolkit">
 <meta property="og:type" content="article">
 <meta property="og:title" content="外国法研究常用资源|Toolkit">
-<meta property="og:url" content="https://joancliu.github.io/2018/12/23/legal_research_resources_foreign/index.html">
+<meta property="og:url" content="https://joancliu.github.io/Notes/legal_research_resources_foreign">
 <meta property="og:site_name" content="Joan&#39;s Blog">
 <meta property="og:description" content="法学研究工具包之外国法主要资源和网站，包括论文、法规、案例。">
 <meta property="og:locale" content="en">
@@ -126,7 +126,7 @@
 
 
 
-  <link rel="canonical" href="https://joancliu.github.io/2018/12/23/legal_research_resources_foreign/">
+  <link rel="canonical" href="https://joancliu.github.io/Notes/legal_research_resources_foreign">
 
 
 
@@ -269,7 +269,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="https://joancliu.github.io/2018/12/23/legal_research_resources_foreign/">
+    <link itemprop="mainEntityOfPage" href="https://joancliu.github.io/Notes/legal_research_resources_foreign">
 
     <span hidden itemprop="author" itemscope="" itemtype="http://schema.org/Person">
       <meta itemprop="name" content="Joan">
@@ -549,7 +549,7 @@
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/2018/12/22/陈若英_商事监管与交易_20181222/" rel="next" title="陈若英《商事监管与跨学科研究》|Notes">
+              <a href="/Notes/陈若英_商事监管与交易_20181222" rel="next" title="陈若英《商事监管与跨学科研究》|Notes">
                 <i class="fa fa-chevron-left"></i> 陈若英《商事监管与跨学科研究》|Notes
               </a>
             
@@ -559,7 +559,7 @@
 
           <div class="post-nav-prev post-nav-item">
             
-              <a href="/2019/01/04/legal_research_resources_china/" rel="prev" title="国内法研究常用资源|Toolkit">
+              <a href="/Notes/legal_research_resources_china" rel="prev" title="国内法研究常用资源|Toolkit">
                 国内法研究常用资源|Toolkit <i class="fa fa-chevron-right"></i>
               </a>
             

@@ -89,7 +89,7 @@
 <meta name="keywords" content="Legal Study,Toolkit">
 <meta property="og:type" content="article">
 <meta property="og:title" content="法律英语常用资源|Toolkit">
-<meta property="og:url" content="https://joancliu.github.io/2019/01/04/legal_english_resources/index.html">
+<meta property="og:url" content="https://joancliu.github.io/Notes/legal_english_resources">
 <meta property="og:site_name" content="Joan&#39;s Blog">
 <meta property="og:description" content="法学研究工具包之法律英语常用资源和网站。">
 <meta property="og:locale" content="en">
@@ -126,7 +126,7 @@
 
 
 
-  <link rel="canonical" href="https://joancliu.github.io/2019/01/04/legal_english_resources/">
+  <link rel="canonical" href="https://joancliu.github.io/Notes/legal_english_resources">
 
 
 
@@ -269,7 +269,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="https://joancliu.github.io/2019/01/04/legal_english_resources/">
+    <link itemprop="mainEntityOfPage" href="https://joancliu.github.io/Notes/legal_english_resources">
 
     <span hidden itemprop="author" itemscope="" itemtype="http://schema.org/Person">
       <meta itemprop="name" content="Joan">
@@ -607,7 +607,7 @@
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/2019/01/04/legal_research_databases_foreign/" rel="next" title="外国法研究常用数据库|Toolkit">
+              <a href="/Notes/legal_research_databases_foreign" rel="next" title="外国法研究常用数据库|Toolkit">
                 <i class="fa fa-chevron-left"></i> 外国法研究常用数据库|Toolkit
               </a>
             
@@ -617,7 +617,7 @@
 
           <div class="post-nav-prev post-nav-item">
             
-              <a href="/2019/02/03/the_whole_story_of_mingjue_case/" rel="prev" title="明珏案始末| The Whole Story of Mingjue's Case">
+              <a href="/Mingjue/the_whole_story_of_mingjue_case" rel="prev" title="明珏案始末| The Whole Story of Mingjue's Case">
                 明珏案始末| The Whole Story of Mingjue's Case <i class="fa fa-chevron-right"></i>
               </a>
             
