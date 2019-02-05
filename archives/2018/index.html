@@ -392,9 +392,9 @@
 
       <h2 class="post-title">
         
-            <a class="post-title-link" href="/2018/12/16/《法学论文写作》/" itemprop="url">
+            <a class="post-title-link" href="/2018/12/16/王涌《少年卡尔的信》/" itemprop="url">
               
-                <span itemprop="name">何海波《法学论文方法》| Notes</span>
+                <span itemprop="name">王涌《写给十八岁的法学少年卡尔》| Notes</span>
               
             </a>
         
@@ -427,9 +427,9 @@
 
       <h2 class="post-title">
         
-            <a class="post-title-link" href="/2018/12/16/王涌《少年卡尔的信》/" itemprop="url">
+            <a class="post-title-link" href="/2018/12/16/《法学论文写作》/" itemprop="url">
               
-                <span itemprop="name">王涌《写给十八岁的法学少年卡尔》| Notes</span>
+                <span itemprop="name">何海波《法学论文方法》| Notes</span>
               
             </a>
         
@@ -624,19 +624,7 @@
   <script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
   
-    <span class="site-uv">
-      <i class="fa fa-user"></i> 访客数
-      <span class="busuanzi-value" id="busuanzi_value_site_uv"></span>
-      人
-    </span>
-  
 
-  
-    <span class="site-pv">
-      <i class="fa fa-eye"></i> 总访问量
-      <span class="busuanzi-value" id="busuanzi_value_site_pv"></span>
-      次
-    </span>
   
 </div>
 
@@ -775,6 +763,28 @@
 
 
 
+
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+
+  <script type="text/javascript">
+    var GUEST = ['nick','mail','link'];
+    var guest = 'nick,mail,link';
+    guest = guest.split(',').filter(item=>{
+      return GUEST.indexOf(item)>-1;
+    });
+    new Valine({
+        el: '#comments' ,
+        verify: false,
+        notify: false,
+        appId: 'lbeEbhXUcEhyiJVX5ViNpAei-gzGzoHsz',
+        appKey: 'APhk37opr9oWNXdUt98jbGKo',
+        placeholder: 'Just go go',
+        avatar:'mm',
+        guest_info:['nick'] 
+        pageSize:'10' || 10,
+    });
+  </script>
 
 
 

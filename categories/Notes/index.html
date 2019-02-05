@@ -586,19 +586,7 @@
   <script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
   
-    <span class="site-uv">
-      <i class="fa fa-user"></i> 访客数
-      <span class="busuanzi-value" id="busuanzi_value_site_uv"></span>
-      人
-    </span>
-  
 
-  
-    <span class="site-pv">
-      <i class="fa fa-eye"></i> 总访问量
-      <span class="busuanzi-value" id="busuanzi_value_site_pv"></span>
-      次
-    </span>
   
 </div>
 
@@ -737,6 +725,28 @@
 
 
 
+
+  <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+  <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+
+  <script type="text/javascript">
+    var GUEST = ['nick','mail','link'];
+    var guest = 'nick,mail,link';
+    guest = guest.split(',').filter(item=>{
+      return GUEST.indexOf(item)>-1;
+    });
+    new Valine({
+        el: '#comments' ,
+        verify: false,
+        notify: false,
+        appId: 'lbeEbhXUcEhyiJVX5ViNpAei-gzGzoHsz',
+        appKey: 'APhk37opr9oWNXdUt98jbGKo',
+        placeholder: 'Just go go',
+        avatar:'mm',
+        guest_info:['nick'] 
+        pageSize:'10' || 10,
+    });
+  </script>
 
 
 
