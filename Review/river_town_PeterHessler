@@ -5,7 +5,7 @@
   
 
 
-<html class="theme-next muse use-motion" lang="zh-Hans">
+<html class="theme-next muse use-motion" lang="en">
 <head><meta name="generator" content="Hexo 3.8.0">
   <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -89,14 +89,14 @@
 <meta name="keywords" content="Literature">
 <meta property="og:type" content="article">
 <meta property="og:title" content="《江城》：局外人眼中的陌生中国|Review">
-<meta property="og:url" content="https://joancliu.github.io/2016/04/17/江城/index.html">
+<meta property="og:url" content="https://joancliu.github.io/Review/river_town_PeterHessler">
 <meta property="og:site_name" content="Joan&#39;s Blog">
 <meta property="og:description" content="作为一个外来者，他观察到“接二连三、冷酷无情、势不可挡——正是中国的本质特征”，辛酸于中国人“无言而又刚毅”的情感表达。他以隐忍和克制的态度去叙述这个陌生的国家，最后与遇到的人们“在路上交错而过，然后又继续各奔东西。">
-<meta property="og:locale" content="zh-Hans">
+<meta property="og:locale" content="en">
 <meta property="og:image" content="https://upload-images.jianshu.io/upload_images/332083-e72cef31659f8520.jpg?imageMogr2/auto-orient/">
 <meta property="og:image" content="https://upload-images.jianshu.io/upload_images/332083-e27e78d56314f9c2.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/791">
 <meta property="og:image" content="https://upload-images.jianshu.io/upload_images/332083-a86eb1de94eed15e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000">
-<meta property="og:updated_time" content="2019-01-04T07:39:31.892Z">
+<meta property="og:updated_time" content="2019-02-05T08:08:14.556Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="《江城》：局外人眼中的陌生中国|Review">
 <meta name="twitter:description" content="作为一个外来者，他观察到“接二连三、冷酷无情、势不可挡——正是中国的本质特征”，辛酸于中国人“无言而又刚毅”的情感表达。他以隐忍和克制的态度去叙述这个陌生的国家，最后与遇到的人们“在路上交错而过，然后又继续各奔东西。">
@@ -116,7 +116,7 @@
     motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
     duoshuo: {
       userId: '0',
-      author: '博主'
+      author: 'Author'
     },
     algolia: {
       applicationID: '',
@@ -130,7 +130,7 @@
 
 
 
-  <link rel="canonical" href="https://joancliu.github.io/2016/04/17/江城/">
+  <link rel="canonical" href="https://joancliu.github.io/Review/river_town_PeterHessler">
 
 
 
@@ -148,7 +148,7 @@
 
 </head>
 
-<body itemscope="" itemtype="http://schema.org/WebPage" lang="zh-Hans">
+<body itemscope="" itemtype="http://schema.org/WebPage" lang="en">
 
   
   
@@ -196,7 +196,7 @@
             
               <i class="menu-item-icon fa fa-fw fa-home"></i> <br>
             
-            首页
+            Home
           </a>
         </li>
       
@@ -206,7 +206,7 @@
             
               <i class="menu-item-icon fa fa-fw fa-user"></i> <br>
             
-            关于
+            About
           </a>
         </li>
       
@@ -216,7 +216,7 @@
             
               <i class="menu-item-icon fa fa-fw fa-tags"></i> <br>
             
-            标签
+            Tags
           </a>
         </li>
       
@@ -226,7 +226,7 @@
             
               <i class="menu-item-icon fa fa-fw fa-th"></i> <br>
             
-            分类
+            Categories
           </a>
         </li>
       
@@ -236,7 +236,7 @@
             
               <i class="menu-item-icon fa fa-fw fa-archive"></i> <br>
             
-            归档
+            Archives
           </a>
         </li>
       
@@ -273,7 +273,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="https://joancliu.github.io/2016/04/17/江城/">
+    <link itemprop="mainEntityOfPage" href="https://joancliu.github.io/Review/river_town_PeterHessler">
 
     <span hidden itemprop="author" itemscope="" itemtype="http://schema.org/Person">
       <meta itemprop="name" content="Joan">
@@ -300,9 +300,9 @@
                 <i class="fa fa-calendar-o"></i>
               </span>
               
-                <span class="post-meta-item-text">发表于</span>
+                <span class="post-meta-item-text">Posted on</span>
               
-              <time title="创建于" itemprop="dateCreated datePublished" datetime="2016-04-17T12:55:52+08:00">
+              <time title="Post created" itemprop="dateCreated datePublished" datetime="2016-04-17T12:55:52+08:00">
                 2016-04-17
               </time>
             
@@ -316,10 +316,10 @@
                 <i class="fa fa-calendar-check-o"></i>
               </span>
               
-                <span class="post-meta-item-text">更新于&#58;</span>
+                <span class="post-meta-item-text">Post modified&#58;</span>
               
-              <time title="更新于" itemprop="dateModified" datetime="2019-01-04T15:39:31+08:00">
-                2019-01-04
+              <time title="Post modified" itemprop="dateModified" datetime="2019-02-05T16:08:14+08:00">
+                2019-02-05
               </time>
             
           </span>
@@ -333,7 +333,7 @@
                 <i class="fa fa-folder-o"></i>
               </span>
               
-                <span class="post-meta-item-text">分类于</span>
+                <span class="post-meta-item-text">In</span>
               
               
                 <span itemprop="about" itemscope="" itemtype="http://schema.org/Thing">
@@ -370,9 +370,9 @@
                   <i class="fa fa-file-word-o"></i>
                 </span>
                 
-                  <span class="post-meta-item-text">字数统计&#58;</span>
+                  <span class="post-meta-item-text">Words count in article&#58;</span>
                 
-                <span title="字数统计">
+                <span title="Words count in article">
                   3.5k
                 </span>
               
@@ -519,7 +519,7 @@
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/2016/02/11/解忧杂货店/" rel="next" title="《解忧杂货店》：适合一个人在冬天捧着读的书|Review">
+              <a href="/Review/The_miracle_of_the_grocery_HigashinoKeigo" rel="next" title="《解忧杂货店》：适合一个人在冬天捧着读的书|Review">
                 <i class="fa fa-chevron-left"></i> 《解忧杂货店》：适合一个人在冬天捧着读的书|Review
               </a>
             
@@ -529,7 +529,7 @@
 
           <div class="post-nav-prev post-nav-item">
             
-              <a href="/2018/09/09/性别的五十道阴影/" rel="prev" title="性别的五十道阴影|Fifty Shades of Gay">
+              <a href="/Opinions/fifty_shades_of_sex" rel="prev" title="性别的五十道阴影|Fifty Shades of Gay">
                 性别的五十道阴影|Fifty Shades of Gay <i class="fa fa-chevron-right"></i>
               </a>
             
@@ -587,10 +587,10 @@
       
         <ul class="sidebar-nav motion-element">
           <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
-            文章目录
+            Table of Contents
           </li>
           <li class="sidebar-nav-overview" data-target="site-overview-wrap">
-            站点概览
+            Overview
           </li>
         </ul>
       
@@ -611,7 +611,7 @@
                 <a href="/archives/">
               
                   <span class="site-state-item-count">12</span>
-                  <span class="site-state-item-name">日志</span>
+                  <span class="site-state-item-name">posts</span>
                 </a>
               </div>
             
@@ -622,7 +622,7 @@
               <div class="site-state-item site-state-categories">
                 <a href="/categories/index.html">
                   <span class="site-state-item-count">4</span>
-                  <span class="site-state-item-name">分类</span>
+                  <span class="site-state-item-name">categories</span>
                 </a>
               </div>
             
@@ -633,7 +633,7 @@
               <div class="site-state-item site-state-tags">
                 <a href="/tags/index.html">
                   <span class="site-state-item-count">5</span>
-                  <span class="site-state-item-name">标签</span>
+                  <span class="site-state-item-name">tags</span>
                 </a>
               </div>
             

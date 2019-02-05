@@ -5,7 +5,7 @@
   
 
 
-<html class="theme-next muse use-motion" lang="zh-Hans">
+<html class="theme-next muse use-motion" lang="en">
 <head><meta name="generator" content="Hexo 3.8.0">
   <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -72,7 +72,7 @@
 
 
 
-  <meta name="keywords" content="Legal Study,Toolkit,">
+  <meta name="keywords" content="Legal Study,">
 
 
 
@@ -85,18 +85,18 @@
 
 
 
-<meta name="description" content="法学研究工具包之外国法数据库。主要介绍Lexis和Westlaw">
-<meta name="keywords" content="Legal Study,Toolkit">
+<meta name="description" content="本文是清华大学法学院已故教授何美欢一次讲座的讲稿，2008年5月31日，何教授 受清华法学院学生会“大家讲坛”邀请做此讲演，并授权本刊发表，鲁楠根据录音整理。">
+<meta name="keywords" content="Legal Study">
 <meta property="og:type" content="article">
-<meta property="og:title" content="外国法研究常用数据库|Toolkit">
-<meta property="og:url" content="https://joancliu.github.io/2019/01/04/外国法常用数据库|Toolkit/index.html">
+<meta property="og:title" content="何美欢《商法救国》| Notes">
+<meta property="og:url" content="https://joancliu.github.io/Notes/commercial_law_and_nationa_hemeihuan">
 <meta property="og:site_name" content="Joan&#39;s Blog">
-<meta property="og:description" content="法学研究工具包之外国法数据库。主要介绍Lexis和Westlaw">
-<meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2019-01-04T07:39:39.715Z">
+<meta property="og:description" content="本文是清华大学法学院已故教授何美欢一次讲座的讲稿，2008年5月31日，何教授 受清华法学院学生会“大家讲坛”邀请做此讲演，并授权本刊发表，鲁楠根据录音整理。">
+<meta property="og:locale" content="en">
+<meta property="og:updated_time" content="2019-02-05T08:02:10.107Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="外国法研究常用数据库|Toolkit">
-<meta name="twitter:description" content="法学研究工具包之外国法数据库。主要介绍Lexis和Westlaw">
+<meta name="twitter:title" content="何美欢《商法救国》| Notes">
+<meta name="twitter:description" content="本文是清华大学法学院已故教授何美欢一次讲座的讲稿，2008年5月31日，何教授 受清华法学院学生会“大家讲坛”邀请做此讲演，并授权本刊发表，鲁楠根据录音整理。">
 
 
 
@@ -112,7 +112,7 @@
     motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
     duoshuo: {
       userId: '0',
-      author: '博主'
+      author: 'Author'
     },
     algolia: {
       applicationID: '',
@@ -126,13 +126,13 @@
 
 
 
-  <link rel="canonical" href="https://joancliu.github.io/2019/01/04/外国法常用数据库|Toolkit/">
+  <link rel="canonical" href="https://joancliu.github.io/Notes/commercial_law_and_nationa_hemeihuan">
 
 
 
 
 
-  <title>外国法研究常用数据库|Toolkit | Joan's Blog</title>
+  <title>何美欢《商法救国》| Notes | Joan's Blog</title>
   
 
 
@@ -144,7 +144,7 @@
 
 </head>
 
-<body itemscope="" itemtype="http://schema.org/WebPage" lang="zh-Hans">
+<body itemscope="" itemtype="http://schema.org/WebPage" lang="en">
 
   
   
@@ -192,7 +192,7 @@
             
               <i class="menu-item-icon fa fa-fw fa-home"></i> <br>
             
-            首页
+            Home
           </a>
         </li>
       
@@ -202,7 +202,7 @@
             
               <i class="menu-item-icon fa fa-fw fa-user"></i> <br>
             
-            关于
+            About
           </a>
         </li>
       
@@ -212,7 +212,7 @@
             
               <i class="menu-item-icon fa fa-fw fa-tags"></i> <br>
             
-            标签
+            Tags
           </a>
         </li>
       
@@ -222,7 +222,7 @@
             
               <i class="menu-item-icon fa fa-fw fa-th"></i> <br>
             
-            分类
+            Categories
           </a>
         </li>
       
@@ -232,7 +232,7 @@
             
               <i class="menu-item-icon fa fa-fw fa-archive"></i> <br>
             
-            归档
+            Archives
           </a>
         </li>
       
@@ -269,7 +269,7 @@
   
   
   <div class="post-block">
-    <link itemprop="mainEntityOfPage" href="https://joancliu.github.io/2019/01/04/外国法常用数据库|Toolkit/">
+    <link itemprop="mainEntityOfPage" href="https://joancliu.github.io/Notes/commercial_law_and_nationa_hemeihuan">
 
     <span hidden itemprop="author" itemscope="" itemtype="http://schema.org/Person">
       <meta itemprop="name" content="Joan">
@@ -286,7 +286,7 @@
 
         
         
-          <h1 class="post-title" itemprop="name headline">外国法研究常用数据库|Toolkit</h1>
+          <h1 class="post-title" itemprop="name headline">何美欢《商法救国》| Notes</h1>
         
 
         <div class="post-meta">
@@ -296,10 +296,10 @@
                 <i class="fa fa-calendar-o"></i>
               </span>
               
-                <span class="post-meta-item-text">发表于</span>
+                <span class="post-meta-item-text">Posted on</span>
               
-              <time title="创建于" itemprop="dateCreated datePublished" datetime="2019-01-04T15:04:59+08:00">
-                2019-01-04
+              <time title="Post created" itemprop="dateCreated datePublished" datetime="2018-12-21T15:41:52+08:00">
+                2018-12-21
               </time>
             
 
@@ -312,10 +312,10 @@
                 <i class="fa fa-calendar-check-o"></i>
               </span>
               
-                <span class="post-meta-item-text">更新于&#58;</span>
+                <span class="post-meta-item-text">Post modified&#58;</span>
               
-              <time title="更新于" itemprop="dateModified" datetime="2019-01-04T15:39:39+08:00">
-                2019-01-04
+              <time title="Post modified" itemprop="dateModified" datetime="2019-02-05T16:02:10+08:00">
+                2019-02-05
               </time>
             
           </span>
@@ -329,7 +329,7 @@
                 <i class="fa fa-folder-o"></i>
               </span>
               
-                <span class="post-meta-item-text">分类于</span>
+                <span class="post-meta-item-text">In</span>
               
               
                 <span itemprop="about" itemscope="" itemtype="http://schema.org/Thing">
@@ -366,10 +366,10 @@
                   <i class="fa fa-file-word-o"></i>
                 </span>
                 
-                  <span class="post-meta-item-text">字数统计&#58;</span>
+                  <span class="post-meta-item-text">Words count in article&#58;</span>
                 
-                <span title="字数统计">
-                  686
+                <span title="Words count in article">
+                  1.6k
                 </span>
               
 
@@ -394,61 +394,31 @@
       
 
       
-        <p>法学研究工具包之外国法数据库。主要介绍Lexis和Westlaw</p>
+        <p>本文是清华大学法学院已故教授何美欢一次讲座的讲稿，2008年5月31日，何教授 受清华法学院学生会“大家讲坛”邀请做此讲演，并授权本刊发表，鲁楠根据录音整理。</p>
 <a id="more"></a>
-<h2 id="Lexis数据库"><a href="#Lexis数据库" class="headerlink" title="Lexis数据库"></a>Lexis数据库</h2><h3 id="一、数据库内容"><a href="#一、数据库内容" class="headerlink" title="一、数据库内容"></a>一、数据库内容</h3><h4 id="1-原始法律文献"><a href="#1-原始法律文献" class="headerlink" title="1. 原始法律文献"></a>1. 原始法律文献</h4><p><strong>（1）判例</strong> </p>
-<p>《联邦和各州判例法合集》《联邦法院判例集》 《各州法院判例集》《美国最高法院判例（律师版）》《美国最高法院摘要》</p>
-<p><strong>（2） 成文法</strong>   </p>
-<ul>
-<li><strong>联邦法律：</strong> 《美国法典服务—第1篇到第50篇》《美国法典服务——联邦条例注释》《联邦行政法典——联邦公报 》《联邦行政部门法令集》 </li>
-<li><strong>各州成文法和法规</strong></li>
-</ul>
-<p><strong>（3） 美国和英国的立法与政治</strong></p>
-<ul>
-<li><strong>美国部分</strong> 包括各州法律与判例、立法情况，美国国会有关情况，政治人物传记和年表、美国行政部门非法律的信息等。</li>
-<li><strong>英国部分</strong> 包括1997年至今所有英联邦公务员名录、下议院议员和预期议会候选人、贵族和上议院议员个人情况、政坛评论、霍尔兹伯里英国法案每月评论以及欧洲议会中的英国议员等<br>内容。</li>
-</ul>
-<h4 id="2-Secondary-Source"><a href="#2-Secondary-Source" class="headerlink" title="2. Secondary Source"></a>2. Secondary Source</h4><ul>
-<li>8133个资源提供的法律新闻（Legal News）</li>
-<li>法律百科（Legal Encyclopedias），如美国法律大全      （American Jurisprudence 2d）</li>
-<li>法律释义（Annotations）如 American Law Report     Annotations</li>
-<li>法律专著（Treatises）</li>
-<li>法律重述（Restatement）</li>
-<li>文书（Forms）提供法院或商业交易中标准文本。</li>
-</ul>
-<h3 id="二、功能"><a href="#二、功能" class="headerlink" title="二、功能"></a>二、功能</h3><ul>
-<li>查找期刊论文、案例、法律法规；使用英文字典，Focus，Shepard’s Report，View Search Tutorial，Alerts</li>
-</ul>
-<h4 id="1-Connector-amp-Commander"><a href="#1-Connector-amp-Commander" class="headerlink" title="1. Connector&amp;Commander"></a>1. Connector&amp;Commander</h4><ul>
-<li><strong>or</strong></li>
-<li><strong>and</strong></li>
-<li><strong>w/n</strong> — China w/3 America，两词之间相距不超过3个字符</li>
-<li><strong>pre/n</strong> — China pre/3 America，同上但是China一定在前面</li>
-<li><strong>w/s</strong> — 一定在同一句中，例如 contract W/S breach（违约）</li>
-<li><strong>w/p</strong> — 一定在同一段中，eg：(third party) W/P  (arbitration)（仲裁中的第三方）</li>
-<li><strong>and not</strong> — 用以排除关键字。eg：（michael W/2 jordan）AND NOT basketball</li>
-<li><strong>！</strong>— legis!＝legislate, legislator, legislation</li>
-<li><strong>Atleast*</strong> — 表示括号中的词在文中至少出现N次。例如：atleast3(breach) 表示breach这个词至少出现3次。</li>
-<li><strong>（）</strong>— 括号里的内容优先运行</li>
-</ul>
-<h4 id="2-案例的Shepard引证"><a href="#2-案例的Shepard引证" class="headerlink" title="2. 案例的Shepard引证"></a>2. 案例的Shepard引证</h4><ul>
-<li>Shepard’s Summary</li>
-<li>Prior history &amp; Subsequent</li>
-<li>appellate history</li>
-<li>LEXISNEXIS® HEADNOTES （HN）</li>
-<li>Citing Decisions</li>
-<li>Annotated Statues</li>
-<li>Law review and journals</li>
-<li>Treaties citation</li>
-</ul>
-<h5 id="引证符号"><a href="#引证符号" class="headerlink" title="引证符号"></a>引证符号</h5><ul>
-<li><strong>红点</strong> Warning — 随后判决中有负面的评价出现过</li>
-<li><strong>Q</strong> Questioned— 随后判决中对其效力表示置疑</li>
-<li><strong>△</strong> Caution — 随后判决中出现过可能是负面的评价</li>
-<li><strong>十字</strong> Positive treatment indicated —随后判决中的评价与此案例的沿革对您的案例有正面的影响 Cited and neutral analysis indicated —</li>
-<li><strong>A</strong>—随后判决中未出现正面或负面的评价   Citation</li>
-<li><strong>i</strong> information available<br>—虽有文献（如law review）引用, 但在随后无任何判决有相关评价与历史沿革</li>
-</ul>
+<h1 id="解决问题需要的素质"><a href="#解决问题需要的素质" class="headerlink" title="解决问题需要的素质"></a>解决问题需要的素质</h1><ol>
+<li>同学们需要有在两个层面上工作的能力。一是<strong>理论、原则和政策</strong>；二是<strong>操作细节</strong>，这两者都是不可或缺的。<br>从事商法的人必须能够掌握理论。</li>
+<li>上面<strong>次贷的例子</strong>可以说明，这个国际性质的规范没有表面上不合理的，它肯定是有大条道理的。表面上不合理的国际规范，其水平就太低了。你要从似是而非的东西里看出问题来，找出哪部分是好的，哪部分是坏的，就非得对理论有透彻的了解。而这个理论决不能限于法律理论，还应包括政治学、经济学、社会学、心理学。没有理论的商法就只能是谋取私利的工具，但 也只能是最低端的私利业务。</li>
+<li>那么防御及解决问题对同学们提出的要求，就是远见和勇气。</li>
+<li>就是提出问题，研究问题，提出建议的勇气。防御和解决国家面临的问题要求同学们，一能透彻了解商法理论、原则、政策，同时能操作技术性的细节，自发作研究，有勇气提出建议。</li>
+</ol>
+<h1 id="学习态度和学习方法："><a href="#学习态度和学习方法：" class="headerlink" title="学习态度和学习方法："></a>学习态度和学习方法：</h1><h2 id="一是学习态度"><a href="#一是学习态度" class="headerlink" title="一是学习态度"></a>一是学习态度</h2><ol>
+<li><p><strong>一是要定长期目标</strong>，能进入清华的同学们，你们的能力有一定的保证，愿意踏实工作的，赚到有体面的生活不是难事，是早晚的事。这是因为中国的经济还在发展中，其实同学们应该不用过分担心，不要因为担心而从事短期行为。对个人，对社会更有利的是树立长远目标，而长远目标就是愿意所谓“浪费时间”来练功。</p>
+<p>我用上面的巴塞尔协议为例，讲一讲我认为正确的学习态度。如果希望自己日后做有价值的原创性工作，应该按照以下顺序学习，认真阅读巴塞尔协议原文，用自己的文字将它的结构、主要内容概括出来；如果你对金融方面已经有些认识，在第一步之后，应该已经发现一些问题，如果你经验少，在这个阶段可能不会发现问题，无论是否已经发现问题，应该着手搜集关于巴塞尔协议的事实，比方说历史、人员、业绩等，以及学者对巴塞尔协议的论文，细心阅读分析，在这个阶段应该开始有问题的感觉，尝试找出一两个具体的问题。认定问题后，首先重新阅读以前已经阅读过的文献，包括巴塞尔协议原文，一定要重新阅读，因为之前的阅读是没有焦点的，所以一定会错过了一些重要的信息。有问题在心里，重新阅读才能将所有有用的信息划出来。此外还要全面地、系统地搜集有关问题的资料。同样，之前你所做的搜集工作是不完整的，因为当时的搜集工作没有焦点，当然搜集到的材料要阅读、分析等，这样才能认定问题，提出建议。学习态度，要树立长期目标，即使最基本的职业律师都要。</p>
+</li>
+<li><p><strong>二是好奇心，就是intellectual curiosity</strong> 。intellectual curiosity 是最好的学习动机。</p>
+</li>
+</ol>
+<h2 id="二是学习方法。"><a href="#二是学习方法。" class="headerlink" title="二是学习方法。"></a>二是学习方法。</h2><p>——就是阅读的重要性，以及阅读的方法。</p>
+<ol>
+<li><p><strong>阅读的重要性</strong> 我们在学校要培养的是自发性，独立工作能力，而不是在学校巩固学生的依赖性。在法律内容学习已经到了一定的阶段，再来学习文字的编辑与语法等问题。那担心自己执业能力的同学，与其跑来跑去学这个学那个，倒不如用心将基本法律课程弄懂、读透，这才是办法。</p>
+</li>
+<li><p><strong>关于阅读方法</strong> 我认为同学们最大的问题是消极阅读，不懂得主动，或者积极阅读。消极阅读指的是同学们只是接收信息，最好的是能够将接收的信息很好地概括出来。而消极阅读的方法往往甚至不能将作者的原意正确地读出来。主动的、积极的阅读方法是一边读， 一边问，好像是跟作者谈话一样。他说了一些话，你想一想，提出问 题，再到他的文章中尝试找出他对这个问题的回答。这样往来跟作 者的互动才能准确地读出他的讯息。这是任何阅读的第一步，就是把它读懂。读懂之后就进行分析，分析之后再作评论。这是我所想 讲的学习方法的第二点。</p>
+</li>
+</ol>
+<h2 id="三是认真对待毕业论文"><a href="#三是认真对待毕业论文" class="headerlink" title="三是认真对待毕业论文"></a>三是认真对待毕业论文</h2><p>我想我不必多说，我应该已经在多个场合谈过这个问题，论文写作是 一种很好的锻炼，即使你将来不作研究，批判性的学识的功能不限于对研究工作的准备，而是对你在日后的执业也起到作用。</p>
+<h1 id="其他：对同学们在行为方面的期望"><a href="#其他：对同学们在行为方面的期望" class="headerlink" title="其他：对同学们在行为方面的期望"></a>其他：对同学们在行为方面的期望</h1><p><strong>一是逞强是不能奏效的</strong>，说世界不公平，应该用中国的标准来要求中国，这些话没有人会认真理会，更不用说理解或者接受。只有成功后，才能够否定原规则，重立本身的规则。而成功几乎只有一个标准，就是国民在精神上、物质上都过得比人家好，这才能证明国家制度的优点。</p>
+<p><strong>二是区分war and battle</strong>，一个人可以lose the battle，but win the war，也可以win the battle，but lose the war。奥运只是battle，只是战役，不是war，输掉了奥运不要紧，中国的war是中华文化的复兴——重点应该放在这。</p>
 
       
     </div>
@@ -468,8 +438,6 @@
           
             <a href="/tags/Legal-Study/" rel="tag"># Legal Study</a>
           
-            <a href="/tags/Toolkit/" rel="tag"># Toolkit</a>
-          
         </div>
       
 
@@ -481,8 +449,8 @@
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/2019/01/04/国内法研究常用资源|Toolkit/" rel="next" title="国内法研究常用资源|Toolkit">
-                <i class="fa fa-chevron-left"></i> 国内法研究常用资源|Toolkit
+              <a href="/Notes/law_essay_methods_hehaibo" rel="next" title="何海波《法学论文方法》| Notes">
+                <i class="fa fa-chevron-left"></i> 何海波《法学论文方法》| Notes
               </a>
             
           </div>
@@ -491,8 +459,8 @@
 
           <div class="post-nav-prev post-nav-item">
             
-              <a href="/2019/01/04/法律英语常用资源|Toolkit/" rel="prev" title="法律英语常用资源|Toolkit">
-                法律英语常用资源|Toolkit <i class="fa fa-chevron-right"></i>
+              <a href="/Notes/陈若英_商事监管与交易_20181222" rel="prev" title="陈若英《商事监管与跨学科研究》|Notes">
+                陈若英《商事监管与跨学科研究》|Notes <i class="fa fa-chevron-right"></i>
               </a>
             
           </div>
@@ -549,10 +517,10 @@
       
         <ul class="sidebar-nav motion-element">
           <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
-            文章目录
+            Table of Contents
           </li>
           <li class="sidebar-nav-overview" data-target="site-overview-wrap">
-            站点概览
+            Overview
           </li>
         </ul>
       
@@ -573,7 +541,7 @@
                 <a href="/archives/">
               
                   <span class="site-state-item-count">12</span>
-                  <span class="site-state-item-name">日志</span>
+                  <span class="site-state-item-name">posts</span>
                 </a>
               </div>
             
@@ -584,7 +552,7 @@
               <div class="site-state-item site-state-categories">
                 <a href="/categories/index.html">
                   <span class="site-state-item-count">4</span>
-                  <span class="site-state-item-name">分类</span>
+                  <span class="site-state-item-name">categories</span>
                 </a>
               </div>
             
@@ -595,7 +563,7 @@
               <div class="site-state-item site-state-tags">
                 <a href="/tags/index.html">
                   <span class="site-state-item-count">5</span>
-                  <span class="site-state-item-name">标签</span>
+                  <span class="site-state-item-name">tags</span>
                 </a>
               </div>
             
@@ -634,7 +602,7 @@
             
 
             
-              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#Lexis数据库"><span class="nav-number">1.</span> <span class="nav-text">Lexis数据库</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#一、数据库内容"><span class="nav-number">1.1.</span> <span class="nav-text">一、数据库内容</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#1-原始法律文献"><span class="nav-number">1.1.1.</span> <span class="nav-text">1. 原始法律文献</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#2-Secondary-Source"><span class="nav-number">1.1.2.</span> <span class="nav-text">2. Secondary Source</span></a></li></ol></li><li class="nav-item nav-level-3"><a class="nav-link" href="#二、功能"><span class="nav-number">1.2.</span> <span class="nav-text">二、功能</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#1-Connector-amp-Commander"><span class="nav-number">1.2.1.</span> <span class="nav-text">1. Connector&amp;Commander</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#2-案例的Shepard引证"><span class="nav-number">1.2.2.</span> <span class="nav-text">2. 案例的Shepard引证</span></a><ol class="nav-child"><li class="nav-item nav-level-5"><a class="nav-link" href="#引证符号"><span class="nav-number">1.2.2.1.</span> <span class="nav-text">引证符号</span></a></li></ol></li></ol></li></ol></li></ol></div>
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#解决问题需要的素质"><span class="nav-number">1.</span> <span class="nav-text">解决问题需要的素质</span></a></li><li class="nav-item nav-level-1"><a class="nav-link" href="#学习态度和学习方法："><span class="nav-number">2.</span> <span class="nav-text">学习态度和学习方法：</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#一是学习态度"><span class="nav-number">2.1.</span> <span class="nav-text">一是学习态度</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#二是学习方法。"><span class="nav-number">2.2.</span> <span class="nav-text">二是学习方法。</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#三是认真对待毕业论文"><span class="nav-number">2.3.</span> <span class="nav-text">三是认真对待毕业论文</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#其他：对同学们在行为方面的期望"><span class="nav-number">3.</span> <span class="nav-text">其他：对同学们在行为方面的期望</span></a></li></ol></div>
             
 
           </div>
