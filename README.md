@@ -1,2 +1,3 @@
-# joancliu.github.io
-This is a blog about Joan and her research.
+# Joan 
+This is a blog about Joan and her research and her life journey.
+
