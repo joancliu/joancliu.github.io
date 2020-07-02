@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://joancliu.github.io/LGBTQ/index.html</loc>
+    
+    <lastmod>2020-07-02T03:52:34.001Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://joancliu.github.io/legal_english_resources.html</loc>
     
     <lastmod>2020-07-01T18:39:54.489Z</lastmod>
@@ -16,14 +23,14 @@
   </url>
   
   <url>
-    <loc>https://joancliu.github.io/chinalaw_database.html</loc>
+    <loc>https://joancliu.github.io/legal_research_databases_china.html</loc>
     
     <lastmod>2020-07-01T18:39:49.541Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://joancliu.github.io/foreignlaw_database.html</loc>
+    <loc>https://joancliu.github.io/legal_research_databases_foreign.html</loc>
     
     <lastmod>2020-07-01T18:39:48.687Z</lastmod>
     
