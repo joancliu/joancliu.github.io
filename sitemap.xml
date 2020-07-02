@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://joancliu.github.io/about/index.html</loc>
+    
+    <lastmod>2020-07-02T03:55:41.017Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://joancliu.github.io/LGBTQ/index.html</loc>
     
-    <lastmod>2020-07-02T03:52:34.001Z</lastmod>
+    <lastmod>2020-07-02T03:55:29.223Z</lastmod>
     
   </url>
   
@@ -82,13 +89,6 @@
     <loc>https://joancliu.github.io/tags/index.html</loc>
     
     <lastmod>2018-12-16T10:59:10.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://joancliu.github.io/about/index.html</loc>
-    
-    <lastmod>2018-12-16T10:34:10.000Z</lastmod>
     
   </url>
   
